@@ -1,6 +1,6 @@
 package org.java;
 
-public class Main {
+public class StampaSaluto {
 	
 	public static void main(String[] args) {
 		
